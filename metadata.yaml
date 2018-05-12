@@ -1,5 +1,8 @@
 _repo: Flatland--a-romance-of-many-dimensions_97
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Abbott, Edwin Abbott
@@ -21,6 +24,8 @@ description: "Flatland: A Romance of Many Dimensions is a satirical novella by t
   \ (2007). Other efforts have been short or experimental films, including one narrated\
   \ by Dudley Moore and the short films Flatland: The Movie (2007) and Flatland 2:\
   \ Sphereland (2012).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/97#Flatland--a-romance-of-many-dimensions
 gutenberg_bookshelf:
 - Science Fiction
 - Mathematics
