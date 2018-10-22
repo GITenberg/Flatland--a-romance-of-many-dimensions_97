@@ -209,7 +209,7 @@ angles of a Square (and still more those of an equilateral Triangle,)
 being much more pointed than those of a Pentagon, and the lines of
 inanimate objects (such as houses) being dimmer than the lines of Men
 and Women, it follows that there is no little danger lest the points of
-a square of triangular house residence might do serious injury to an
+a square or triangular house residence might do serious injury to an
 inconsiderate or perhaps absentminded traveller suddenly running
 against them: and therefore, as early as the eleventh century of our
 era, triangular houses were universally forbidden by Law, the only
@@ -428,7 +428,7 @@ necessitating involuntary motions, shall be instantly destroyed.
 In some of the States there is an additional Law forbidding Females,
 under penalty of death, from walking or standing in any public place
 without moving their backs constantly from right to left so as to
-indicate their presence to those behind them; other oblige a Woman,
+indicate their presence to those behind them; others oblige a Woman,
 when travelling, to be followed by one of her sons, or servants, or by
 her husband; others confine Women altogether in their houses except
 during the religious festivals.  But it has been found by the wisest of
@@ -2701,7 +2701,7 @@ before my unworthy eye, I said to my Companion, "Behold, I am become as
 a God.  For the wise men in our country say that to see all things, or
 as they express it, OMNIVIDENCE, is the attribute of God alone." There
 was something of scorn in the voice of my Teacher as he made answer:
-"it is so indeed?  Then the very pick-pockets and cut-throats of my
+"is it so indeed?  Then the very pick-pockets and cut-throats of my
 country are to be worshipped by your wise men as being Gods: for there
 is not one of them that does not see as much as you see now.  But trust
 me, your wise men are wrong."
@@ -2722,7 +2722,7 @@ mere affection.
 
 Sphere.  It is not for me to classify human faculties according to
 merit.  Yet many of the best and wisest in Spaceland think more of the
-affections than of the understand, more of your despised Straight Lines
+affections than of the understanding, more of your despised Straight Lines
 than of your belauded Circles.  But enough of this.  Look yonder.  Do
 you know that building?
 
@@ -2903,7 +2903,7 @@ and much remains to be done before you are fit to proclaim the Gospel
 of Three Dimensions to your blind benighted countrymen in Flatland.
 
 I.  Nay, gracious Teacher, deny me not what I know it is in thy power
-to reform.  Grant me but one glimpse of thine interior, and I am
+to perform.  Grant me but one glimpse of thine interior, and I am
 satisfied for ever, remaining henceforth thy docile pupil, thy
 unemancipable slave, ready to receive all thy teachings and to feed upon
 the words that fall from thy lips.
@@ -3380,7 +3380,7 @@ had preceded me to my prison.
 Seven years have elapsed and I am still a prisoner, and--if I except
 the occasional visits of my brother--debarred from all companionship
 save that of my jailers.  My brother is one of the best of Squares,
-just sensible, cheerful, and not without fraternal affection; yet I
+just, sensible, cheerful, and not without fraternal affection; yet I
 confess that my weekly interviews, at least in one respect, cause me
 the bitterest pain.  He was present when the Sphere manifested himself
 in the Council Chamber; he saw the Sphere's changing sections; he heard
